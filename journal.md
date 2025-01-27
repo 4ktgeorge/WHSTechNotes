@@ -8,3 +8,8 @@ i enjoy how chill the class is also how we can talk n get work done and eat food
 The shift towards prioritizing AI skills in the tech industry is a complex development with both potential benefits and challenges. While AI tools can automate repetitive tasks and free up human workers for more creative endeavors, there's a concern that this could lead to job displacement, especially for those lacking the necessary AI skills. To prepare for this changing landscape, individuals should focus on acquiring a deep understanding of AI principles, learning how to work alongside AI systems, and developing critical thinking and problem-solving skills to complement the abilities that AI cannot   
 # january 22, 2025 
 govermenrt intervention in technology comepanies such as the potential ban of tiktokca signnifcantly impact both the companies and thier usseres for technology companies goverment intervention can lead to increassed scruitny regulatory cokmpliance costsand potential restricion on operation this can affect thier ability to innovate and compete globally .for users goverment intervention can res;ut in reduced access to serviv.
+# january 27, 2025
+| name       | car | mistake | 
+| ----------- |    ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
