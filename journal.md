@@ -12,9 +12,9 @@ govermenrt intervention in technology comepanies such as the potential ban of ti
 | name        | car            | mistake     | 
 | ----------- |    ----------- | ----------- |
 |Jimmy        | Title       |
-| Kayla       | Text        |
-|
-| 
+|Kayla        | Text        |
+|Bart         |
+|Harrison     |
 # february 3,2025 
 air traffic control systems air control systems are crucial for managing airspace and preveting collision these thses systems rely on sophisticated computer algorithms to track
 predict thier path and issu inruction to pilts the algorithms use real time data from reader gps and other sensors. 
