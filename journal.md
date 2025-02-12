@@ -18,3 +18,5 @@ govermenrt intervention in technology comepanies such as the potential ban of ti
 # february 3, 2025 
 air traffic control systems air control systems are crucial for managing airspace and preveting collision these thses systems rely on sophisticated computer algorithms to track
 predict thier path and issu inruction to pilts the algorithms use real time data from reader gps and other sensors. 
+# february 11 , 2025 desiging a real data analysis application for NFL coaches as a software developer working for an NFL team my primary goal would be to desgign an application that leverages real time data 
+to enhance coaching decisions durying the game and also several key feature to ensure tht coach have actionable information at all times 
