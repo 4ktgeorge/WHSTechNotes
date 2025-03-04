@@ -21,10 +21,10 @@ predict thier path and issu inruction to pilts the algorithms use real time data
 # february 11, 2025
 2025 desiging a real data analysis application for NFL coaches as a software developer working for an NFL team my primary goal would be to desgign an application that leverages real time data 
 to enhance coaching decisions durying the game and also several key feature to ensure tht coach have actionable information at all times 
-# fedruary 18, 2025
+# february 18, 2025
 2025 s the most interesting thing i learned last week was code and other stuff did u know There are More than 700 Coding Languages.
 The Daughter of a Mad Poet was the First Programmer.Coding Depends on 0's and 1's.NASA Still Uses 1970s Programs in Their Spacecraft.The First Computer “Bug” Was a Real Bug also an early discontinued computer programming language, created by the Datamatic Division of Minneapolis Honeywell for its model 800 series business computers in 1959. FACT was an acronym for "Fully Automatic Compiling Technique". It was an influence on the design of the COBOL programming language.
-# fedruary 24, 2025
+# february 24, 2025
 technoloy offer innovative solution to naviagte the ever evoling landscape of youth slage .AI is a powerful tool can be integrated in education plateforms and communication channeles providing real time interpretations of slang terms this ensures clear communication between adults and youth minimizing misdunderstandings in educational setting counselling seesion or mentoring programs such tool should be designed with sensiticity avodiding the perpetuation of sterotypes  or the trivialization.
 # march 3, 2025 
 the feel like the sudstitue was feeling streesed becuasae she had to deal wit me but she knew she was wrong becuse she wanted to record a vstudent  but sdhe porobbaly didnt care after the susituon and had a good rest of her day 
