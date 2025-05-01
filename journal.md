@@ -39,3 +39,9 @@ my current emotional and mental state is ok right now i am trying to lock in for
 Price attributes this success to the AI tutor and adaptive apps, stating, "Our students are learning faster, they're learning way better." The AI tutor's role in the classroom is to provide a completely tailored learning experience for every student, which has resulted in the dramatic improvement of test scores AI can generate custom learning materials, such as quizzes, flashcards, and even entire lessons tailored to a student's strengths and weaknesses. This personalization ensures that students focus on the topics they need the most help with, maximizing their learning efficiency.
 # apirl 14 , 2025 
 Florida is moving towards restricting student cell phone use in schools, with the House passing a bill that would ban devices throughout the school day. The law, currently in the Senate, aims to enhance focus and reduce distractions during learning. While supporters highlight benefits like improved academic performance and decreased cyberbullying, opponents raise concerns about emergency communication and student autonomy Florida previously prohibited phone use during instructional time, with districts setting their own rules on enforcement and In Florida, it's generally legal to talk on a cell phone while driving, as long as it's done hands-free, but it's illegal to text while driving. Texting includes manually typing or sending messages, as well as reading data on the device. Hands-free usage is required in school and construction zones
+# apirl 22 , 2025 
+# apirl 28 , 2025 
+Name    |	Flavor   |	Occasion    |	Price
+Sally   | chocolate| Graduation   |35.00$ 		
+Michael |vanilla   |farewell party|37.00$		
+Emma    |carrot    | birthday     |39.00$  		
