@@ -42,6 +42,7 @@ Florida is moving towards restricting student cell phone use in schools, with th
 # apirl 22 , 2025 
 # apirl 28 , 2025 
 Name    |	Flavor   |	Occasion    |	Price
+:------- | :----- | :------- | :---- |
 Sally   | chocolate| Graduation   |35.00$ 		
 Michael |vanilla   |farewell party|37.00$		
 Emma    |carrot    | birthday     |39.00$  		
