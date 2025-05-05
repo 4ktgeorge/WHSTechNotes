@@ -47,6 +47,9 @@ Sally   | chocolate| Graduation   |35.00$
 Michael |vanilla   |farewell party|37.00$		
 Emma    |carrot    | birthday     |39.00$
 # may 5 , 2025
-# C In a fight between 100 men and one gorilla, the 100 men would likely win, but at a great cost.
-# E The gorilla's strength and bite force are immense, and the humans would suffer heavy casualties before overcoming the gorilla's power and endurance. 
-# R However, the sheer numbers of the human team, their ability to coordinate, and their potential use of weapons or strategies could eventually lead to their victory. 
+# C 
+In a fight between 100 men and one gorilla, the 100 men would likely win, but at a great cost.
+# E 
+The gorilla's strength and bite force are immense, and the humans would suffer heavy casualties before overcoming the gorilla's power and endurance. 
+# R 
+However, the sheer numbers of the human team, their ability to coordinate, and their potential use of weapons or strategies could eventually lead to their victory. 
