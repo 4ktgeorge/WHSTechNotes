@@ -45,4 +45,8 @@ Name    |	Flavor   |	Occasion    |	Price
 :------- | :----- | :------- | :---- |
 Sally   | chocolate| Graduation   |35.00$ 		
 Michael |vanilla   |farewell party|37.00$		
-Emma    |carrot    | birthday     |39.00$  		
+Emma    |carrot    | birthday     |39.00$
+# may 5 , 2025
+# C
+# E
+# R
