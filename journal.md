@@ -56,3 +56,5 @@ However, the sheer numbers of the human team, their ability to coordinate, and t
 # may 12 , 2025 
 As a digital citizen and future tech professional, responding to trends like the "Chromebook Challenge" requires a multi-faceted approach focused on safety, responsibility, and education. Explain that inserting objects into USB ports can cause short circuits, overheating, toxic smoke, and even fires and explosions, potentially causing serious injury or death.
  Stress that damaging school property can lead to disciplinary actions, fines, suspension, and even criminal charges like vandalism and arson, depending on the severity of the damage By clearly communicating the potential dangers, legal consequences, and costs, you can help individuals understand the gravity of their actions and discourage participation in dangerous trends like the Chromebook Challenge. 
+# may 19 , 2025 
+I am reday for summer because i am tired of deal wit all this school stuff no cap ms but i am going to miss this class but not school but i am really going to put in work wit sportrs .
